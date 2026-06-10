@@ -14,44 +14,29 @@
 
 # STATE OF SECOND BRAIN
 *Live status dashboard — keep current*
-*Last Updated: `__FILL_FROM_USER__:last_updated`*
+*Last Updated: 2026-06-10*
 
 ## Current Phase
 
-`__FILL_FROM_USER__:current_phase`
-<!-- A second brain typically moves Ingestion → Tooling & Retrieval → Execution.
-     State which phase(s) are active and what that means right now. -->
+Phase 1 — Ingestion (fresh brain, just set up). Focus: capture ideas and content into the brain, get comfortable with `/ingest-brain-dump`. No content filed yet.
 
 ## Project Tiers
 
-<!-- __FILL_FROM_USER__:project_tiers — FILL after your first project exists; each /new-project adds a row. Not set at setup.
-     The roster that answers "what should I work on?". A table by activity tier.
-     Tier 1 = active now; lower tiers = ongoing / high-priority-inactive / on-roster /
-     parked. Each row: project — one-line state — next action. -->
-
-| Tier | Projects |
-|------|----------|
-| 1 — Active | _(…)_ |
-| 2 — Ongoing | _(…)_ |
-| 3 — High priority, inactive | _(…)_ |
-| 4 — On roster | _(…)_ |
-| 5 — Parked | _(…)_ |
+| Tier | Project | State | Next action |
+|------|---------|-------|-------------|
+| 1 — Active | Fedya OS | Setting up the brain | Run first `/ingest-brain-dump` |
 
 ## Blockers & Open Decisions
 
-`__FILL_FROM_USER__:blockers`
-<!-- What's stuck and on what. The honest list. -->
+None yet.
 
 ## Recently Shipped / Completed
 
-`__FILL_FROM_USER__:shipped`
-<!-- Done things, for momentum and to avoid re-litigating settled work. -->
+- 2026-06-10: Ran `/setup` Core — identity, purpose, gaps, timezone filled in. Brain is live.
 
 ## Weekly Maintenance Schedule
 
-`__FILL_FROM_USER__:maintenance_schedule`
-<!-- When the brain gets its housekeeping pass (counts, stale-doc reconciliation).
-     `/weekly-maintenance` is the canonical routine. -->
+Weekly, Sundays — run `/weekly-maintenance` to update file counts, sync orientation docs, and review open TODOs.
 
 ---
 

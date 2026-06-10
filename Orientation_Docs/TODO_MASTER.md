@@ -9,22 +9,19 @@
 
 # TODO MASTER
 *Routing hub for TODOs — thin index, not a dump*
-*Last Updated: `__FILL_FROM_USER__:last_updated`*
+*Last Updated: 2026-06-10*
 
 ## Cross-cutting action items
-`__FILL_FROM_USER__:cross_cutting_todos`
-<!-- Tasks that span projects or belong to the brain itself, not one project. -->
 
-- [ ] _(item)_
+- [ ] Run first `/ingest-brain-dump` — capture your first real ideas or notes into the brain
+- [ ] Complete `/setup voice` phase — fill in voice guide and capture method
+- [ ] Run `/weekly-maintenance` at end of first week
 
 ## Per-project TODO files
-<!-- __FILL_FROM_USER__:project_todo_index — FILL as projects are created; each /new-project adds a row here. Not set at setup.
-     A pointer list: each active project → its TODO_<Proj>.md path. The actual tasks
-     live in those files; this is just the index. -->
 
 | Project | TODO file |
 |---------|-----------|
-| _(name)_ | `Projects/_(name)_/TODO_*.md` |
+| Fedya OS | _(create with `/new-project` when ready)_ |
 
 ---
 

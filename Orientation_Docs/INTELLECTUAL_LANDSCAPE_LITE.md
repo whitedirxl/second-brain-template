@@ -24,25 +24,22 @@
 
 ## WHAT THIS BRAIN IS FOR
 
-`__FILL_FROM_USER__:brain_purpose`
-<!-- Interview (the FIRST setup question): "What do you want this second brain to DO for you?"
-     (capture ideas / thinking partner / write in your voice / track projects to the finish /
-     remember your life / agent-to-agent use). Plus "what's a win in 3 months?" One or two lines —
-     this frames every other answer and tells an agent what the brain is *for*. -->
+Build "Fedya OS" — a personal operating system for faster thinking, less procrastination, better focus, and turning ideas into real actions. Hub for learning, tech, productivity, AI, Mac, GitHub, startups, and shipping useful projects that help people save time and simplify life.
 
 ## GAPS IT FILLS
 
-`__FILL_FROM_USER__:gaps_filled`
-<!-- Interview: "What weaknesses or blind spots should this brain help with?" (start-but-don't-finish,
-     forget ideas, scattered focus, poor recall of past decisions…). A second brain earns its keep by
-     shoring up specific gaps — naming them lets an agent actively compensate for them. -->
+- **Scattered focus** — too many directions at once; brain should help prioritise and hold the thread
+- **Starts but doesn't finish** — ideas and projects get abandoned before they ship; brain should track momentum and next actions
 
 ## WHO THE OWNER IS
 
-`__FILL_FROM_USER__:who_i_am`
-<!-- Interview: age/background, where they're from, what they do now, the one-line
-     self-description they'd actually use, the throughline of their life so far.
-     2–4 short paragraphs in their voice. -->
+Fedya Rudenko — learner, builder, and startup-oriented creator.
+
+Building his life system around learning, technologies, productivity, AI, Mac, GitHub, startups, and creating useful projects. Uses Mac as his primary work environment for studying, projects, GitHub, notes, AI tools, research, and content creation.
+
+Mission: develop self, create useful things, and build a life where he learns faster, works better, and achieves what truly matters. Wants to create projects that help people save time, simplify boring or complex tasks, and make everyday life easier.
+
+Roles: Learner · Builder · Mac user · GitHub beginner · AI tools user · Productivity explorer · Startup-oriented creator · Researcher · Content / ideas creator · Future founder or startup team member.
 
 ## WORLDVIEW (one-liners)
 
@@ -75,13 +72,9 @@ They tune out:
 
 ## ACTIVE PROJECTS (quick reference)
 
-`__FILL_FROM_USER__:active_projects`
-<!-- Interview: a table — Project | one-line what-it-is. Keep to the live ones; the
-     full roster + status lives in STATE_OF_SECOND_BRAIN.md. -->
-
 | Project | What |
 |---|---|
-| _(name)_ | _(one line)_ |
+| Fedya OS | Personal operating system — this second brain; hub for learning, projects, ideas, and decisions |
 
 ## LOAD THE FULL `INTELLECTUAL_LANDSCAPE.md` WHEN
 

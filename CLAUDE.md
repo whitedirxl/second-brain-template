@@ -13,7 +13,7 @@
 
 > A personal knowledge management system — years of one person's intellectual output.
 > These files represent a lot of personal thinking. **Treat them with care.**
-> (Owner identity: `__FILL_FROM_USER__:owner_one_liner` — e.g. "who the owner is in one line.")
+> (Owner: Fedya Rudenko — learner and builder; building "Fedya OS," a personal operating system for faster thinking and shipping useful projects.)
 
 @Orientation_Docs/ROUTER.md
 @Orientation_Docs/INTELLECTUAL_LANDSCAPE_LITE.md
@@ -365,7 +365,7 @@ Some folders hold irreplaceable source material that must never be modified. Lis
 
 A second brain typically moves through phases — Ingestion → Tooling & Retrieval → Execution. Record where this one is:
 
-`__FILL_FROM_USER__:current_status` — e.g. "Phase 1 (Ingestion): COMPLETE; Phase 2 (Execution): ACTIVE." See STATE_OF_SECOND_BRAIN.md for details.
+Phase 1 (Ingestion): ACTIVE — brain just set up on 2026-06-10. Next: run `/ingest-brain-dump` to start capturing ideas and content.
 
 ---
 
@@ -373,7 +373,8 @@ A second brain typically moves through phases — Ingestion → Tooling & Retrie
 
 > **Mechanism (keep this):** persistent tasks that every new agent should surface at session start / "what's on deck" until done. This is how long-running intentions survive across sessions. The owner's personal reminders were removed — add yours below.
 
-`__FILL_FROM_USER__:active_reminders` — e.g. an open deliverable, an in-progress migration, a security-hardening queue. One checkbox bullet each, with an "Added: DATE" stamp and a one-line "surface until done" note.
+- [ ] Run first `/ingest-brain-dump` to capture your ideas into the brain. (Added: 2026-06-10 — surface until done)
+- [ ] Complete `/setup voice` to fill voice guide and set up capture method. (Added: 2026-06-10 — surface until done)
 
 ---
 
